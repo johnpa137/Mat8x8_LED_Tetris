@@ -5,4 +5,4 @@ A final project I had for EE 271 at UW.
 Decided to do Tetris. 
 
 Note: When looking through old files there were multiple versions of this project one works and one doesn't
-  I no longer have a De1_SoC to test which is which
+  I no longer have a De1_SoC to test which is which, v2 was the last modified version and was likely the final version that was turned-in
