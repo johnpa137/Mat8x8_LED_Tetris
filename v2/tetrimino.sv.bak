@@ -1,0 +1,4 @@
+module tetrimino(x, y, clk, reset, moveleft, moveright, movedown, inX, inY);
+
+
+endmodule 

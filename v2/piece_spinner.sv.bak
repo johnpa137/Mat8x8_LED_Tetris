@@ -1,0 +1,3 @@
+module piece_spinner #(parameter XSIZE=3, parameter YSIZE=3) (outX, outY, inX, inY);
+	output
+endmodule 

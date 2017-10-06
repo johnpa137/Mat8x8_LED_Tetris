@@ -1,0 +1,3 @@
+module decoder #(parameter WIDTH=2) (out, in);
+	
+endmodule 

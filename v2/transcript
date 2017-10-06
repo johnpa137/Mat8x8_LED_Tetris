@@ -1,0 +1,346 @@
+# Reading C:/altera/14.1/modelsim_ase/tcl/vsim/pref.tcl
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:33:21 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# ** Error: ./DE1_SoC.sv(24): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# ** Error: ./DE1_SoC.sv(34): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# ** Error: ./DE1_SoC.sv(47): (vlog-2730) Undefined variable: 'reset'.
+# 
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:33:22 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 5, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:36:57 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# ** Error: ./DE1_SoC.sv(24): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# ** Error: ./DE1_SoC.sv(34): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:36:57 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:41:13 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# ** Error: ./DE1_SoC.sv(24): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# ** Error: ./DE1_SoC.sv(34): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:41:13 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:42:08 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# ** Error: ./DE1_SoC.sv(24): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# ** Error: ./DE1_SoC.sv(34): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:42:09 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 4, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:43:04 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# ** Error: ./DE1_SoC.sv(24): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# ** Error: ./DE1_SoC.sv(34): near "[": syntax error, unexpected '[', expecting IDENTIFIER or TYPE_IDENTIFIER
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:43:04 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:45:22 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:45:24 on Mar 07,2017, Elapsed time: 0:00:02
+# Errors: 2, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:52:07 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:52:08 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 2, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:55:18 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# ** Error: (vlog-12003) ./DE1_SoC.sv(67): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# ** Error: (vlog-12003) ./DE1_SoC.sv(68): Variable 'reset' written by continuous and procedural assignments. See ./DE1_SoC.sv(60). 
+# 
+# End time: 16:55:18 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+# Error in macro ./runlab.do line 7
+# C:/altera/14.1/modelsim_ase/win32aloem/vlog failed.
+#     while executing
+# "vlog "./DE1_SoC.sv""
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:57:25 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 16:57:26 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:57:26 on Mar 07,2017
+# vlog -reportprogress 300 ./led_matrix_driver.sv 
+# -- Compiling module led_matrix_driver
+# 
+# Top level modules:
+# 	led_matrix_driver
+# End time: 16:57:27 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:57:27 on Mar 07,2017
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 16:57:27 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vsim -gui 
+# Start time: 16:57:28 on Mar 07,2017
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# ** Error: (vsim-3037) ./DE1_SoC.sv(45): Missing instance name in instantiation of 'clock_divider'.
+# 
+#         Region: /DE1_SoC_testbench/dut
+# Loading work.led_matrix_driver
+# Loading work.increment
+# Loading work.adder
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runlab.do PAUSED at line 14
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:58:00 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 16:58:01 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:58:01 on Mar 07,2017
+# vlog -reportprogress 300 ./led_matrix_driver.sv 
+# -- Compiling module led_matrix_driver
+# 
+# Top level modules:
+# 	led_matrix_driver
+# End time: 16:58:01 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 16:58:02 on Mar 07,2017
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 16:58:02 on Mar 07,2017, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# ** Error: (vsim-3037) ./DE1_SoC.sv(45): Missing instance name in instantiation of 'clock_divider'.
+# 
+#         Region: /DE1_SoC_testbench/dut
+# Loading work.led_matrix_driver
+# Loading work.increment
+# Loading work.adder
+# Error loading design
+# Error: Error loading design
+#        Pausing macro execution
+# MACRO ./runlab.do PAUSED at line 14
+do runlab.do
+# ** Warning: (vlib-34) Library already exists at "work".
+# 
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 17:09:45 on Mar 07,2017
+# vlog -reportprogress 300 ./DE1_SoC.sv 
+# -- Compiling module DE1_SoC
+# -- Compiling module DE1_SoC_testbench
+# 
+# Top level modules:
+# 	DE1_SoC_testbench
+# End time: 17:09:47 on Mar 07,2017, Elapsed time: 0:00:02
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 17:09:47 on Mar 07,2017
+# vlog -reportprogress 300 ./led_matrix_driver.sv 
+# -- Compiling module led_matrix_driver
+# 
+# Top level modules:
+# 	led_matrix_driver
+# End time: 17:09:51 on Mar 07,2017, Elapsed time: 0:00:04
+# Errors: 0, Warnings: 0
+# Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 17:09:52 on Mar 07,2017
+# vlog -reportprogress 300 ./clock_divider.sv 
+# -- Compiling module clock_divider
+# 
+# Top level modules:
+# 	clock_divider
+# End time: 17:09:53 on Mar 07,2017, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# Loading sv_std.std
+# Loading work.DE1_SoC_testbench
+# Loading work.DE1_SoC
+# Loading work.clock_divider
+# Loading work.led_matrix_driver
+# Loading work.increment
+# Loading work.adder
+# Loading work.fullAdder
+# ** Warning: (vsim-3839) ./DE1_SoC.sv(13): Variable '/DE1_SoC_testbench/dut/row_sink', driven via a port connection, is multiply driven. See ./DE1_SoC.sv(47).
+# 
+#         Region: /DE1_SoC_testbench/dut
+# ** Warning: (vsim-3839) ./DE1_SoC.sv(12): Variable '/DE1_SoC_testbench/dut/green_driver', driven via a port connection, is multiply driven. See ./DE1_SoC.sv(47).
+# 
+#         Region: /DE1_SoC_testbench/dut
+# ** Warning: (vsim-3839) ./DE1_SoC.sv(11): Variable '/DE1_SoC_testbench/dut/red_driver', driven via a port connection, is multiply driven. See ./DE1_SoC.sv(47).
+# 
+#         Region: /DE1_SoC_testbench/dut
+# ** Error: Cannot open macro file: Lab8_wave.do
+# Error in macro ./runlab.do line 19
+# invalid command name "vsim_increment_error_count"
+#     while executing
+# "::tcl_unknown vsim_increment_error_count"
+#     ("uplevel" body line 1)
+#     invoked from within
+# "uplevel 1 ::tcl_unknown $args"
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+# 
+#           File in use by: johnpa  Hostname: EE-361PC05  ProcessID: 14904
+# 
+#           Attempting to use alternate WLF file "./wlft8fkbcd".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+# 
+#           Using alternate file: ./wlft8fkbcd
+# 
+add wave -position end  sim:/DE1_SoC_testbench/CLOCK_50
+add wave -position end  sim:/DE1_SoC_testbench/SW
+add wave -position end  sim:/DE1_SoC_testbench/reset
+add wave -position end  sim:/DE1_SoC_testbench/clk
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[23]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[21]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[19]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[18]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[20]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[17]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[14]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[2]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[5]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[8]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[11]
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf U:/ee271labs/Lab8/Lab8_wave.do
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[24]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[21]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[18]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[15]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[1]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[4]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[7]
+add wave -position end  sim:/DE1_SoC_testbench/GPIO_0[10]
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf U:/ee271labs/Lab8/Lab8_wave.do

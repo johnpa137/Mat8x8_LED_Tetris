@@ -1,0 +1,2 @@
+// stores the fixed led matrix
+module piece_locker(matrixOut, clk, reset, inX, inY, fix);
