@@ -1,0 +1,27 @@
+// comparator
+module greaterThan #(parameter BITSIZE=1)(out, a, b);
+	output logic out;
+	input logic [BITSIZE-1:0] a, b;
+	
+	always_comb begin
+		
+	end
+endmodule 
+
+module greaterThan_testbench();
+	logic out;
+	logic [1:0] a, b;
+	
+	greaterThan dut(.out, .a, .b);
+	
+	initial begin
+		#50; a = 1; b = 0;
+		#100;
+		#100; a = 35; b = 12;
+		#100;
+		#100; a = 200010; b = 300012;
+		#100;
+		#100; a = 36; b = 33;
+		#100;
+	end
+endmodule 
