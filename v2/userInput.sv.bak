@@ -1,3 +1,0 @@
-module userInput(left, right, down, spin, key3, key2, key1, key0, clk, reset);
-	
-endmodule 

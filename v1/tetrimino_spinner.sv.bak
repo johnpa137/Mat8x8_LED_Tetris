@@ -1,3 +1,0 @@
-module tetrimino_spinner(matrixOut, inType);
-	
-endmodule 

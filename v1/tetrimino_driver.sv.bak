@@ -1,3 +1,0 @@
-module tetrimino_driver(activeOut, fixOut, clk, reset, gravityClk);
-
-endmodule 

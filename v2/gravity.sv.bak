@@ -1,3 +1,0 @@
-module gravity (out, clk, reset);
-	
-endmodule 

@@ -1,7 +1,0 @@
-module led_matrix_driver(red_driver, green_driver, row_sink, clk, reset, red_array, green_array);
-	output logic [7:0] red_driver, green_driver, row_sink;
-	input logic [7:0][7:0] red_array, green_array;
-	input logic clk, reset;
-	
-	
-endmodule 

@@ -1,7 +1,0 @@
-// cyber player
-module cyber_player(out, clk, reset);
-	output logic out;
-	input logic clk, reset;
-	
-	
-endmodule;

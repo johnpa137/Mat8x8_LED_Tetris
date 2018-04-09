@@ -1,1 +1,0 @@
-module piece_generator #(parameter XSIZE=1, parameter YSIZE=1) (out, pieceType, originX, originY);

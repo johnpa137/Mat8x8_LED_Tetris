@@ -1,3 +1,0 @@
-module led_driver(redOut, greenOut, clk, reset, left, right, leftLed, rightLed, downLed);
-	
-endmodule 

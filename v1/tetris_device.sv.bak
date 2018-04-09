@@ -1,4 +1,0 @@
-module tetris_device(greenOut, redOut, clk, reset, left, right, down, spin);
-
-
-endmodule 

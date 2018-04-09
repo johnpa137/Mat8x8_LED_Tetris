@@ -1,7 +1,0 @@
-module matrixRow #(parameter XSIZE=3) (rowOut, rowUp, rowIn);
-	output logic [XSIZE-1:0] rowOut;
-	input logic [XSIZE-1:0] rowUp;
-	input logic [XSIZE-1:0] rowIn;
-
-	
-endmodule 

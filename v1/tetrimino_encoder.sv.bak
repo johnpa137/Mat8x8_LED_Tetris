@@ -1,4 +1,0 @@
-// changes 8x8 matrix into 4 x values and 4 y values
-module tetrimino_encoder(outX, outY, matrixIn);
-	
-endmodule 

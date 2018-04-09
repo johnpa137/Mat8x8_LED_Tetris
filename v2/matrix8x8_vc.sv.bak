@@ -1,7 +1,0 @@
-module matrix8x8_vc(out, matrixIn, x, y);
-	output logic out;
-	input logic [7:0][7:0] matrixIn;
-	input logic [2:0] x, y;
-	
-	
-endmodule 
